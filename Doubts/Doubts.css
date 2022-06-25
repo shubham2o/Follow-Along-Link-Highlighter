@@ -1,0 +1,17 @@
+.style1 {
+  height: 200px;
+  width: 300px;
+  overflow: auto;
+}
+
+#myDiv {
+  width: 250px;
+  height: 150px;
+  padding: 16px;
+  border: 1px solid black;
+}
+
+.style2 {
+  width: 1000px;
+  height: 1000px;
+}
